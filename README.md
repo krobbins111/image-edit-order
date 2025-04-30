@@ -1,0 +1,1 @@
+The easiest way to run this code is via this colab notebook on an A-100 since it must generate many images depending on how long the description is: https://colab.research.google.com/drive/1zsAB8jZ9uInkBw5szUDoNWtOijip7PZt?usp=sharing
